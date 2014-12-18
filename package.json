@@ -1,0 +1,11 @@
+{
+    "name": "screen-scraping",
+    "description": "Command line tool with easy config file to make quick screen scraping. And supports Socks5 proxy.",
+    "version": "0.0.1",
+    "author": "Yang Li <yaleeyang@163.com>",
+    "license": "MIT",
+    "repository": "yaleeyang/screen-scrape",
+    "dependencies": {
+        "socks5-https-client": "0.2.2"
+    }
+}
