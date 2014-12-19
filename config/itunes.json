@@ -1,0 +1,22 @@
+[
+    {
+        "rule": {
+            "div": ".iphone-screen-shots img",
+            "attr": "src"
+        },
+        "download": {
+            "path": "./",
+            "name": "iphone"
+        }
+    },
+    {
+        "rule": {
+            "div": ".ipad-screen-shots img",
+            "attr": "src"
+        },
+        "download": {
+            "path": "./",
+            "name": "ipad"
+        }
+    }    
+]
